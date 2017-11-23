@@ -38,7 +38,7 @@ Note that for stocks there are 252 trading days per year whereas crypoassets tra
 
 Below is the CAGR and Volatility percentage for digital assets and FANG stocks:
 
-![CAGR Formula](imgs/cryp_fang_bars.png)
+![Crypt FANG Bars](imgs/cryp_fang_bar.png)
  
 
 Comparing the performance of the FANG stocks with our selected crypoassets reveals interesting insights:
@@ -56,7 +56,7 @@ In other words, a $100 investment in BTC on Nov 1, 2015 would retain $1873 after
 
 But as mentioned before, the levels of risk associated with returns are also important:
 
-![CAGR Formula](imgs/return_vol.png)
+![Return Vol](imgs/return_vol.png)
  
 
 Above table shows that both CAGR and volatility percentage of crypoassets are higher than the FANG stocks.
@@ -66,7 +66,7 @@ Calculating the correlation between CAGRs and volatilities also reveals a strong
 
 Speaking of correlations, the correlation between these 2 groups worth investigating:
  
-![CAGR Formula](imgs/heat_map.png)
+![Heat map](imgs/heat_map.png)
 
 Above correlation heat map shows that:
 
