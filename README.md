@@ -1,4 +1,4 @@
-#4 Major Cryptoassets Performances Compared to FANG Stocks
+# 4 Major Cryptoassets Performances Compared to FANG Stocks
 
 The purpose behind this project was to compare the returns and volatility of 4 major crypoassets (Bitcoin, Ethereum, Litecoin, and Dash) with high performing technology stocks (Facebook, Amazon, Netflix, and Google).
 
