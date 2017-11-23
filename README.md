@@ -14,7 +14,9 @@ Let’s compare the two datasets:
 ![Cryptoassets Price](imgs/crypt_price.png)
 
 
-  
+
+
+![Cryptoassets Price](imgs/FANG_price.png)
 
 
 By looking at these 2 graphs we can tell that Bitcoin (BTC) has had a huge growth during this period. But let’s look at the numbers to make sure that we are right.
