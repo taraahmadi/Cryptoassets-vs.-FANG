@@ -11,8 +11,7 @@ To compare these two datasets I chose an arbitrary date range from November 1, 2
 Let’s compare the two datasets:
 
  
-
-
+![Cryptoassets Price](imgs/crypt_price.png)
 
 
   
