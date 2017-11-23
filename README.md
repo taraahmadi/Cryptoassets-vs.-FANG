@@ -16,7 +16,7 @@ Let’s compare the two datasets:
 
 
 
-![Cryptoassets Price](imgs/FANG_price.png)
+![FANG Price](imgs/FANG_price.png)
 
 
 By looking at these 2 graphs we can tell that Bitcoin (BTC) has had a huge growth during this period. But let’s look at the numbers to make sure that we are right.
@@ -25,7 +25,9 @@ We can compare investments of different types with one another, by calculating t
 
 To calculate compound annual growth rate, we need to divide the value of an investment at the end of the period by its value at the beginning of that period, raise the result to the power of one divided by the period length, and subtract one from the subsequent result:
 
- 
+![CAGR Formula](imgs/CAGR_formula.png)
+
+
 While returns are often the topic of trending conversations, if unaccompanied by an investigation of volatility, investors may be undercompensated for the risk they're taking.
 
 The volatility can be calculated by getting the standard deviation of the daily price change over a given period of time.
@@ -36,6 +38,7 @@ Note that for stocks there are 252 trading days per year whereas crypoassets tra
 
 Below is the CAGR and Volatility percentage for digital assets and FANG stocks:
 
+![CAGR Formula](imgs/cryp_fang_bars.png)
  
 
 Comparing the performance of the FANG stocks with our selected crypoassets reveals interesting insights:
@@ -53,7 +56,7 @@ In other words, a $100 investment in BTC on Nov 1, 2015 would retain $1873 after
 
 But as mentioned before, the levels of risk associated with returns are also important:
 
-From Nov 1, 2015 to Nov 1, 2017
+![CAGR Formula](imgs/return_vol.png)
  
 
 Above table shows that both CAGR and volatility percentage of crypoassets are higher than the FANG stocks.
@@ -63,7 +66,7 @@ Calculating the correlation between CAGRs and volatilities also reveals a strong
 
 Speaking of correlations, the correlation between these 2 groups worth investigating:
  
-
+![CAGR Formula](imgs/heat_map.png)
 
 Above correlation heat map shows that:
 
